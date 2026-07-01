@@ -22,18 +22,18 @@ We welcome contributions across several areas:
 ### 📖 Documentation
 
 - Clarifying concepts, fixing typos, and updating API documents is highly appreciated.
-- Documentation markdown files are located in the [docs](..) folder.
+- Documentation markdown files are located in the `docs` folder.
 - You can preview changes locally by building the Docusaurus site inside the `axcom-engine-docs-site` directory.
 
 ### 💻 Code Contributions
 
 - We accept pull requests for bug fixes, performance improvements, and new features.
-- Make sure to review the [GitHub PR Checklist](../../.github/pull_request_template.md).
+- Make sure to review the [GitHub PR Checklist](https://github.com/axiolon/axcom/blob/main/.github/pull_request_template.md).
 
 ---
 
 ## Quick Resources
 
-- **Code of Conduct:** Please review our [Code of Conduct](../../CODE_OF_CONDUCT.md).
-- **Contributing Standards:** Refer to the [CONTRIBUTING.md](../../CONTRIBUTING.md) guide for commit conventions and pull request rules.
+- **Code of Conduct:** Please review our [Code of Conduct](https://github.com/axiolon/axcom/blob/main/CODE_OF_CONDUCT.md).
+- **Contributing Standards:** Refer to the [CONTRIBUTING.md](https://github.com/axiolon/axcom/blob/main/CONTRIBUTING.md) guide for commit conventions and pull request rules.
 - **Technical Setup:** Follow the **[Developer Onboarding Guide](./onboarding.md)** to configure your local development environment.

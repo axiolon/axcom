@@ -19,11 +19,9 @@ const config: Config = {
   projectName: "AxCom",
 
   onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
   markdown: {
     mermaid: true,
-    hooks: {
-      onBrokenMarkdownLinks: "warn",
-    },
   },
 
   i18n: {
@@ -56,7 +54,7 @@ const config: Config = {
           path: "../docs",
           routeBasePath: "/docs",
           sidebarPath: "./sidebars.ts",
-          editUrl: "https://github.com/axiolon/AxCom/edit/main/",
+          editUrl: "https://github.com/axiolon/axcom/edit/main/",
           showLastUpdateTime: true,
           showLastUpdateAuthor: true,
         },
@@ -92,7 +90,7 @@ const config: Config = {
           position: "left",
         },
         {
-          href: "https://github.com/axiolon/AxCom",
+          href: "https://github.com/axiolon/axcom",
           label: "GitHub",
           position: "right",
         },
@@ -113,11 +111,11 @@ const config: Config = {
           items: [
             {
               label: "GitHub",
-              href: "https://github.com/axiolon/AxCom",
+              href: "https://github.com/axiolon/axcom",
             },
             {
               label: "Issues",
-              href: "https://github.com/axiolon/AxCom/issues",
+              href: "https://github.com/axiolon/axcom/issues",
             },
           ],
         },

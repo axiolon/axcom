@@ -76,7 +76,7 @@ Before opening a pull request, you must ensure that all code meets quality stand
 
 ### 1. Code Style and Linting
 
-We use `golangci-lint` to maintain strict code guidelines. Check the rules defined in [.golangci.yml](../../.golangci.yml) and run the linter:
+We use `golangci-lint` to maintain strict code guidelines. Check the rules defined in [.golangci.yml](https://github.com/axiolon/axcom/blob/main/.golangci.yml) and run the linter:
 
 ```bash
 golangci-lint run
